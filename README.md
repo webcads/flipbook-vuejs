@@ -1,6 +1,12 @@
 # flipbook
 Flipbook effect using vue js
 
+## take a demo below
+
+```
+https://thealoneprogrammer.github.io/flipbook-vuejs/
+```
+
 ## Project setup
 ```
 yarn install
